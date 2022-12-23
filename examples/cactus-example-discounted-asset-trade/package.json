@@ -28,7 +28,7 @@
     "fabric-network": "1.4.19",
     "http-errors": "1.6.3",
     "indy-sdk": "1.16.0-dev-1649",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "log4js": "6.4.0",
     "morgan": "1.9.1",
     "shelljs": "0.8.5",
